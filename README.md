@@ -1,7 +1,9 @@
 ## 💜 Olá, meu nome é <strong>Leonardo Bühring Müller!</strong>
 
 > Estudante do 2º semestre em Sistemas para Internet.
+
 > Aluno bootcamp Rocketseat since 2020.
+
 > Formado em Eng. Elétrica.
 
 
