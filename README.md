@@ -9,6 +9,18 @@
 
 💬 "Só saberá subir na vida quem tiver a <strong>humildade</strong> de descer quantas vezes forem necessário".
 
+<p align="left">
+  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+</p>
+
+<p align="left">
+  
+  <a href="https://www.linkedin.com/in/leonardo-m%C3%BCller-695869197/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/leonardomuller"/>
+  </a>
+  
+</p>
+
 ----
 
 ## 🚀 Minhas Skills
