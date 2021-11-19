@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/leonardomuller"/>
   </a>
   <a href="https://leonardomuller.netlify.app/" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
+    <img alt="Github" src="https://img.shields.io/badge/leonaardomuller.netlify-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
   </a> 
 </p>
 
