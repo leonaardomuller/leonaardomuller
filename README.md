@@ -23,7 +23,6 @@
   <a href="https://leonardomuller.netlify.app/" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/Portfolio-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
   </a> 
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/c7aba76f-7936-4ad5-8780-fa1116db01fb/deploy-status)](https://app.netlify.com/sites/leonardomuller/deploys)
 </p>
 
 ----
