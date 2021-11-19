@@ -22,7 +22,10 @@
   </a>
   <a href="https://leonardomuller.netlify.app/" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/Portfolio-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
-  </a> 
+  </a>
+  <a href="https://www.instagram.com/leonaaaaaaardo_/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/>
+  </a>
 </p>
 
 ----
