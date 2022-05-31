@@ -15,7 +15,7 @@
 
 <p align="left">
   
-  <a href="https://www.linkedin.com/in/leonardo-m%C3%BCller-695869197/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/leonardobmuller/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/leonardomuller"/>
   </a>
   <a href="https://leonardomuller.netlify.app/" target="_blank">
