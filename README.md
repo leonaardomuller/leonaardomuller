@@ -4,9 +4,6 @@
 
 > Aluno bootcamp Rocketseat since 2020.
 
-
-🔭 Trabalho com projetos HTML/CSS/JavaScript e ReactJS.
-
 💬 "Só saberá subir na vida quem tiver a <strong>humildade</strong> de descer quantas vezes forem necessário".
 
 <p align="left">
