@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Leonardo Bühring Müller!</strong>
 
-> Estudante do 5º semestre em Sistemas para Internet.
+> Estudante do 6º semestre em Sistemas para Internet.
 
 > Aluno bootcamp Rocketseat since 2020.
 
