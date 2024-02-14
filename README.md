@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Leonardo Bühring Müller!</strong>
 
-> Graduado em Sistemas para Internet.
+> Graduado em Sistemas para Internet 2023.
 
 > Aluno bootcamp Rocketseat since 2020.
 
